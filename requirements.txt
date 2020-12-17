@@ -18,8 +18,11 @@ regex==2020.7.14
 requests==2.24.0
 six==1.15.0
 toml==0.10.1
-twilio==6.45.0
+twilio
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
 urllib3==1.25.10
 Werkzeug==1.0.1
+googletrans
+speechrecognition
+ibm-watson>=4.7.1
